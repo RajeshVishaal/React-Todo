@@ -1,2 +1,3 @@
 # Todo App
-Add, update, delete, complete your ## Todos
+Add, update, delete, complete your todos
+
